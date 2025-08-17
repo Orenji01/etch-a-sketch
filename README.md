@@ -1,0 +1,1 @@
+Will make a "etch-a-sketch" in the web and the purpose of this project is to test my dom manipulation skills.
