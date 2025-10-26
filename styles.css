@@ -6,7 +6,8 @@
     border: 0px;
 }
 
-div {
+#container>div,
+#new-container>div {
     height: 10px;
     width: 10px;
     border: 1px solid;
